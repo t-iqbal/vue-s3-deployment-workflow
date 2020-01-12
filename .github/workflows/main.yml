@@ -12,6 +12,10 @@ jobs:
 
     steps:
     - uses: actions/checkout@v1
+      
+    - name: Install Node package
+      run: npm install
+      
     - name: Build the project
       run: npm run build
     - name: Deploy to AWS S3
