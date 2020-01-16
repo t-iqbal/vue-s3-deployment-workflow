@@ -9,7 +9,7 @@ and Create AWS S3 Bucket - See [Create S3 Bucket Reference](https://docs.aws.ama
 
 ### Project setup
 
-> Go to Actions tab of your Vue repo in in Github and click button "Set up a workflow on yourself".
+> Go to Actions tab of your Vue repo and click on "Set up a workflow on yourself" button.
 
 
 ### Add AWS Crdenentails and S3 Bucket name
