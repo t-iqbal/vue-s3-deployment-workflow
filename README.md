@@ -2,8 +2,8 @@
 
 An example workflow that lets you build Vue project and upload build artifact to AWS S3. It helps you build continuous integration (CI) and continuous deployment (CD) capabilities directly in your repository.
 
-Create AWS Access Key Id and S3 Bucket
-===============
+### Create AWS Access Key Id and S3 Bucket
+
 > Create an AWS access key - See [Create](https://aws.amazon.com/premiumsupport/knowledge-center/create-access-key/)
 and Create AWS S3 Bucket - See [Create S3 Bucket Reference](https://docs.aws.amazon.com/AmazonS3/latest/gsg/CreatingABucket.html)
 
